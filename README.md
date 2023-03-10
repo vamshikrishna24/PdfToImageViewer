@@ -1,2 +1,2 @@
 # Pdf to Image Viewer
-- [Demo](https://notes-app-wine-iota.vercel.app/)
+- [Demo](https://pdf-viewer-pi.vercel.app/)
